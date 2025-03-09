@@ -1,0 +1,13 @@
+div[data-testid="stTextArea"] textarea {
+    background-color: #8cb3c7 !important;
+    color: #000 !important;
+    border-radius: 10px;
+    border: 2px solid #333;
+    padding: 10px;
+}
+
+div[data-testid="stFileUploader"] {
+    background-color: #8cb3c7 !important;
+    border-radius: 10px;
+    padding: 10px;
+}
